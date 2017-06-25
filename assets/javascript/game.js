@@ -47,7 +47,7 @@ $(document).ready(function(){
 		var x1 = 19 ;
 		var y1 = 120;
 
-		var x2 = 1;
+		var x2 = 2;
 		var y2 = 12
 
 		score_to_guess = Math.floor(Math.random() * ((y1-x1)+1) + x1);;
